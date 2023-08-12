@@ -77,7 +77,7 @@ enum estado{
 	LORA_ERR,
 	_DATO_RECIBIDO
 };
-// Used to recognize string type
+// Used to recognize string type  a
 enum lora_STR{
 	_OK,
 	_RCV,
